@@ -1,0 +1,29 @@
+{
+  "identifier" : "tender",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "tender_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Unlocks unlimited entries, world coverage map, and total value",
+          "displayName" : "Tender Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "tender_pro_unlock",
+      "referenceName" : "Tender Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
